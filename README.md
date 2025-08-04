@@ -47,8 +47,8 @@ A modern Task Manager Android application built with **Jetpack Compose**, integr
 This repository contains a google-services.json file meant for demo and testing purposes only.
 - The linked Firebase project is not used in production
 - No real user data is stored or processed
-- Firebase billing is not enabled
-If you're cloning or reusing this app:
+- Firebase billing is not enabled 
+  If you're cloning or reusing this app:
 - Create your own Firebase project
 - Enable Authentication and Realtime Database
 - Download your own google-services.json file from Firebase Console
