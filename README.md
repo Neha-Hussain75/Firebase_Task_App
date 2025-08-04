@@ -56,20 +56,20 @@ This repository contains a google-services.json file meant for demo and testing 
 
 ## 📸 Screenshots
 
-<<<<<<< HEAD
-<h3>🏠 Home Screen</h3>  
+
+<h3>🏠 Login Screen</h3>  
 <img src="screenshots/login.jpg" alt="Login Screen" width="300"/>
 
-<h3>📝 Quiz Screen</h3>  
+<h3>📝 Register Screen</h3>  
 <img src="screenshots/register.jpg" alt="Register Screen" width="300"/>
 
-<h3>🏁 Result Screen</h3>  
+<h3>🏁 Home Screen</h3>  
 <img src="screenshots/home.jpg" alt="Home Screen" width="300"/>
 
-<h3>🏠 Home Screen</h3>  
+<h3>🏠 Add/Edit Screen</h3>  
 <img src="screenshots/add-edit.jpg" alt="Add/Edit Screen" width="300"/>
 
-<h3>📝 Quiz Screen</h3>  
+<h3>📝 Tasks Screen</h3>  
 <img src="screenshots/tasks.jpg" alt="Tasks Screen" width="300"/>
 
->>>>>>> a38c516b879d137b19322b9a6dece3c9ef4922b8
+
