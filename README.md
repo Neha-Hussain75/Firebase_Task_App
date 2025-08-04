@@ -48,7 +48,7 @@ This repository contains a google-services.json file meant for demo and testing 
 - The linked Firebase project is not used in production
 - No real user data is stored or processed
 - Firebase billing is not enabled 
-  If you're cloning or reusing this app:
+ * If you're cloning or reusing this app:
 - Create your own Firebase project
 - Enable Authentication and Realtime Database
 - Download your own google-services.json file from Firebase Console
